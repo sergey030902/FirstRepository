@@ -6,9 +6,7 @@ IT's MOre than a University
 
 					IMTO (user1)
 
-
-
-				ITMO
+ITMO (branch master)
 			ITMO
 		ITMO
 	ITMO
